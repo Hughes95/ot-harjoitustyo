@@ -1,4 +1,12 @@
-# This is an <MOOC 2020 full stack> tag
+Ohjelmistotekniikka, harjoitustyö
 
-*This text will be italic*
-_This will also be italic_
+Tehtävät
+
+viikko 1
+
+
+linkit komentorivi.txt
+[https://github.com/Hughes95/ot-harjoitustyo/edit/master/README.md/laskarit/viikko1/komentorivi.txt )
+
+linkit gitlog.txt
+[https://github.com/Hughes95/ot-harjoitustyo/edit/master/README.md/laskarit/viikko1/gitlog.txt )
