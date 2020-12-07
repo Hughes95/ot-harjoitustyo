@@ -2,7 +2,7 @@
 
 ## Tehtävät<h2> 
 
-#### Viikko 1<h4> 
+#### Viikko_1<h4> 
 
 [komentorivi](https://github.com/Hughes95/ot-harjoitustyo/tree/master/laskarit/viikko1/komentorivi.txt)
 
