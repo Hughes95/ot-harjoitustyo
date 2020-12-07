@@ -1,8 +1,8 @@
-# Ohjelmistotekniikka, harjoitustyö <h1> tag
+# Ohjelmistotekniikka, harjoitustyö <h1> 
 
-## Tehtävät<h2> tag
+## Tehtävät<h2> 
 
-###### Viikko 1<h6> tag
+#### Viikko 1<h4> 
 
 [komentorivi](https://github.com/Hughes95/ot-harjoitustyo/tree/master/laskarit/viikko1/komentorivi.txt)
 
